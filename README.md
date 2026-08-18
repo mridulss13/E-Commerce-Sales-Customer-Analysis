@@ -125,7 +125,7 @@ An interactive **Power BI dashboard** was created to analyze e-commerce sales pe
 
 ### Dashboard Preview
 
-![E-Commerce Sales Dashboard](images/dashboard.png)
+![E-Commerce Sales Dashboard](dashboard.png)
 
 
 ### Key KPIs
